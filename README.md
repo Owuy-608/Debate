@@ -15,3 +15,53 @@ El Estado burgués no solo actúa como regulador del mercado, sino como un agent
 En esta fase imperialista, el capitalismo entra en una etapa de decadencia y parasitismo. Los capitalistas ya no obtienen sus ganancias exclusivamente a través de la producción, sino que recurren a la especulación financiera y a la exportación de capital como principales fuentes de enriquecimiento. Los grandes monopolios, con el apoyo del Estado, explotan a los trabajadores tanto en sus propios países como en las naciones coloniales, saqueando recursos y acumulando riqueza sin necesidad de participar en la producción directa. Este carácter parasitario del capitalismo en su fase imperialista refuerza el control de unos pocos sobre la mayoría, y profundiza las desigualdades económicas a nivel global.
 
 Este parasitismo se manifiesta también en la creación de una aristocracia obrera en los países capitalistas avanzados. Al conceder mejores salarios y condiciones de vida a una pequeña parte de la clase trabajadora, los capitalistas logran dividir al movimiento obrero y mantener la paz social. El Estado burgués desempeña un papel crucial en este proceso, asegurando que los intereses de la clase dominante sean protegidos mediante políticas que favorecen a la aristocracia obrera, mientras el resto de la clase trabajadora continúa siendo explotada.
+
+## La Concentración de la Producción y los Monopolios.
+
+Uno de los elementos clave en la teoría del imperialismo es la **concentración de la producción** y la creación de monopolios. Se sostiene que el capitalismo en su etapa inicial se caracteriza por la **libre competencia**, donde muchas empresas pequeñas y medianas luchan entre sí en igualdad de condiciones. Sin embargo, a medida que el capitalismo se desarrolla, esta competencia se transforma progresivamente en monopolio, como resultado de la concentración de la producción en manos de un número cada vez más reducido de empresas gigantescas.
+
+Este proceso de concentración no es solo una tendencia, sino una **ley inevitable del desarrollo capitalista**. Las empresas más grandes y mejor organizadas, con mayor acceso a capital y tecnología, tienden a devorar o desplazar a las más pequeñas, lo que genera una mayor centralización del capital y el control del mercado.
+
+Los censos industriales proporcionan un conjunto de pruebas irrefutables sobre la tendencia a la concentración de la producción. 
+
+### Alemania (1882-1907):
+
+| Año    | Empresas de más de 50 trabajadores (%) | Trabajadores en grandes empresas (%) |
+|--------|---------------------------------------|-------------------------------------|
+| 1882   | 3%                                    | 22%                                 |
+| 1895   | 6%                                    | 30%                                 |
+| 1907   | 9%                                    | 37%                                 |
+
+Esta tabla muestra cómo, en el lapso de 25 años, el número de grandes empresas en Alemania, es decir, aquellas con más de 50 trabajadores, se triplicó. Mientras que en 1882 representaban solo el 3% del total de empresas, en 1907 ya eran el 9%. Este crecimiento es aún más significativo si se observa el número de trabajadores empleados en estas empresas, que pasó del 22% en 1882 al 37% en 1907. Esto indica que, aunque el número de grandes empresas sigue siendo relativamente pequeño, su **capacidad productiva** es mucho mayor que la de las pequeñas y medianas empresas, controlando una parte significativa de la producción total.
+
+| Tipo de Empresa                      | Porcentaje de caballos de vapor | Porcentaje de kilovatios eléctricos |
+|--------------------------------------|--------------------------------|------------------------------------|
+| Grandes empresas (>50 trabajadores)  | 75.3%                          | 77.2%                              |
+| Pequeñas empresas (<5 trabajadores)  | 7%                             | 7%                                 |
+
+No solo se concentran trabajadores, sino también los recursos energéticos esenciales para la producción. En Alemania, en 1907, las grandes empresas controlaban más del 75% de la energía utilizada en la producción, tanto en caballos de vapor como en electricidad, mientras que las pequeñas empresas, que representaban el 91% del total de empresas, apenas consumían el 7% de dicha energía. Este control desproporcionado de los recursos productivos muestra que la competencia entre pequeñas empresas se vuelve cada vez más irrelevante, dado el poder abrumador de los monopolios.
+
+### Estados Unidos (1904-1909)
+
+| Año    | Empresas que producen más de un millón de dólares | Trabajadores (%) | Porcentajes de la producción (%) |
+|--------|--------------------------------------------------|------------------|---------------------------|
+| 1904   | 0.9%                                             | 25.6%            | 38%                        |
+| 1909   | 1.1%                                             | 30.5%            | 43.8%                      |
+
+En Estados Unidos, el proceso de concentración fue aún más acelerado. En 1904, el 0.9% de las empresas producía más de un millón de dólares al año y empleaba al 25.6% de los trabajadores. En solo cinco años, este pequeño grupo de empresas había incrementado su participación en la producción total al 43.8%, lo que demuestra que **una porción mínima de las empresas controlaba casi la mitad de la producción nacional**.
+
+Este crecimiento vertiginoso muestra cómo los grandes capitalistas, al concentrar la producción, logran un **monopolio** de facto, eliminando a competidores más pequeños y dominando sectores clave de la economía. Este fenómeno también provoca una caída de la competencia y permite que estas empresas fijen los precios, determinen la oferta y coordinen la producción para maximizar sus beneficios, lo que beneficia solo a una élite económica.
+
+## El impacto de la concentración en la creación de monopolios
+
+Una vez que la producción alcanza cierto nivel de concentración, la **competencia capitalista se transforma en monopolio**. Las grandes empresas, al ser pocas, pueden llegar a acuerdos entre sí para repartirse los mercados, controlar la oferta y fijar los precios. Este proceso es evidente en múltiples sectores industriales.
+
+En Alemania, el consorcio del carbón de Renania-Westfalia llegó a controlar el **95.4%** de la producción hullera de esa región en 1910. En Estados Unidos, el **trust del acero (United States Steel Corporation)** controlaba el **66.3%** de la producción de acero del país en 1901, y el **56.1%** en 1908.
+
+Estos ejemplos demuestran que, una vez alcanzado cierto grado de concentración, las empresas gigantes se organizan en **monopolios** que controlan sectores enteros de la economía. Este fenómeno no es exclusivo de industrias específicas, sino que se extiende a casi todas las ramas de la economía capitalista, incluyendo la minería, la siderurgia, la producción de maquinaria, la banca, y más.
+
+## Consecuencias sociales y económicas de la concentración
+
+La concentración de la producción no solo genera monopolios económicos, sino que tiene profundas consecuencias sociales y políticas. En primer lugar, refuerza el **poder de la burguesía** al otorgarles un control casi total sobre los medios de producción, lo que a su vez les permite dominar al Estado y moldear las políticas económicas en su favor. En segundo lugar, las **crisis cíclicas del capitalismo** se vuelven más profundas y destructivas, ya que la producción se concentra en pocas manos y cualquier perturbación en los monopolios tiene efectos devastadores sobre la economía en su conjunto.
+
+La **competencia entre los monopolios** por los mercados y las fuentes de materias primas también provoca conflictos internacionales, que, inevitablemente, llevan a **guerras imperialistas**, donde los Estados burgueses luchan por el reparto del mundo en beneficio de sus clases dominantes.
