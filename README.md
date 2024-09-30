@@ -41,7 +41,7 @@ Esta tabla muestra cómo, en el lapso de 25 años, el número de grandes empresa
 
 No solo se concentran trabajadores, sino también los recursos energéticos esenciales para la producción. En Alemania, en 1907, las grandes empresas controlaban más del 75% de la energía utilizada en la producción, tanto en caballos de vapor como en electricidad, mientras que las pequeñas empresas, que representaban el 91% del total de empresas, apenas consumían el 7% de dicha energía. Este control desproporcionado de los recursos productivos muestra que la competencia entre pequeñas empresas se vuelve cada vez más irrelevante, dado el poder abrumador de los monopolios.
 
-### Estados Unidos (1904-1909)
+### Estados Unidos (1904-1909):
 
 | Año    | Empresas que producen más de un millón de dólares | Trabajadores (%) | Porcentajes de la producción (%) |
 |--------|--------------------------------------------------|------------------|---------------------------|
