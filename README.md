@@ -52,7 +52,7 @@ En Estados Unidos, el proceso de concentración fue aún más acelerado. En 1904
 
 Este crecimiento vertiginoso muestra cómo los grandes capitalistas, al concentrar la producción, logran un **monopolio** de facto, eliminando a competidores más pequeños y dominando sectores clave de la economía. Este fenómeno también provoca una caída de la competencia y permite que estas empresas fijen los precios, determinen la oferta y coordinen la producción para maximizar sus beneficios, lo que beneficia solo a una élite económica.
 
-## El impacto de la concentración en la creación de monopolios
+## El impacto de la concentración en la creación de monopolios.
 
 Una vez que la producción alcanza cierto nivel de concentración, la **competencia capitalista se transforma en monopolio**. Las grandes empresas, al ser pocas, pueden llegar a acuerdos entre sí para repartirse los mercados, controlar la oferta y fijar los precios. Este proceso es evidente en múltiples sectores industriales.
 
@@ -60,7 +60,7 @@ En Alemania, el consorcio del carbón de Renania-Westfalia llegó a controlar el
 
 Estos ejemplos demuestran que, una vez alcanzado cierto grado de concentración, las empresas gigantes se organizan en **monopolios** que controlan sectores enteros de la economía. Este fenómeno no es exclusivo de industrias específicas, sino que se extiende a casi todas las ramas de la economía capitalista, incluyendo la minería, la siderurgia, la producción de maquinaria, la banca, y más.
 
-## Consecuencias sociales y económicas de la concentración
+## Consecuencias sociales y económicas de la concentración.
 
 La concentración de la producción no solo genera monopolios económicos, sino que tiene profundas consecuencias sociales y políticas. En primer lugar, refuerza el **poder de la burguesía** al otorgarles un control casi total sobre los medios de producción, lo que a su vez les permite dominar al Estado y moldear las políticas económicas en su favor. En segundo lugar, las **crisis cíclicas del capitalismo** se vuelven más profundas y destructivas, ya que la producción se concentra en pocas manos y cualquier perturbación en los monopolios tiene efectos devastadores sobre la economía en su conjunto.
 
