@@ -41,7 +41,7 @@ Esta tabla muestra cómo, en el lapso de 25 años, el número de grandes empresa
 
 No solo se concentran trabajadores, sino también los recursos energéticos esenciales para la producción. En Alemania, en 1907, las grandes empresas controlaban más del 75% de la energía utilizada en la producción, tanto en caballos de vapor como en electricidad, mientras que las pequeñas empresas, que representaban el 91% del total de empresas, apenas consumían el 7% de dicha energía. Este control desproporcionado de los recursos productivos muestra que la competencia entre pequeñas empresas se vuelve cada vez más irrelevante, dado el poder abrumador de los monopolios.
 
-### Estados Unidos (1904-1909)
+### Estados Unidos (1904-1909):
 
 | Año    | Empresas que producen más de un millón de dólares | Trabajadores (%) | Porcentajes de la producción (%) |
 |--------|--------------------------------------------------|------------------|---------------------------|
@@ -69,25 +69,78 @@ La **competencia entre los monopolios** por los mercados y las fuentes de materi
 
 ## Los Bancos y su Nuevo Rol en el Estado Burgués.
 
-En la fase imperialista del capitalismo, el papel de los bancos se transforma radicalmente. Lenin destaca que los bancos, que en un principio actuaban como intermediarios financieros, ahora se han convertido en poderosos monopolios que controlan casi todo el capital monetario y productivo de un país. Esto les otorga una posición clave en la economía y en la política, estrechamente vinculados con el Estado burgués, cuyo objetivo es garantizar los intereses de la clase dominante.
+En la fase imperialista del capitalismo, el papel de los bancos se transforma radicalmente. Los bancos, que en un principio actuaban como intermediarios financieros, ahora se han convertido en poderosos monopolios que controlan casi todo el capital monetario y productivo de un país. Esto les otorga una posición clave en la economía y en la política, estrechamente vinculados con el Estado burgués, cuyo objetivo es garantizar los intereses de la clase dominante.
 
-El **proceso de concentración bancaria** ha llevado a que un puñado de bancos gigantes controle la mayor parte de los depósitos y el capital disponible en las economías capitalistas avanzadas. Lenin ilustra esta concentración con el ejemplo de Alemania, donde en el período entre 1907 y 1912, los nueve principales bancos de Berlín concentraban casi el 50% de todos los depósitos del país:
+El **proceso de concentración bancaria** ha llevado a que un puñado de bancos gigantes controle la mayor parte de los depósitos y el capital disponible en las economías capitalistas avanzadas. Un claro ejemplo de esta concentración se observa en Alemania, donde en el período entre 1907 y 1912, los nueve principales bancos de Berlín concentraban casi el 50% de todos los depósitos del país:
 
 | Año        | En los 9 grandes bancos de Berlín (%) | En 48 bancos con más de 10 millones (%) | En 115 bancos con 1-10 millones (%) | En bancos pequeños (%) |
 |------------|----------------------------------------|-----------------------------------------|------------------------------------|-------------------------|
 | 1907-1908  | 47                                     | 32,5                                    | 16,5                               | 4                       |
 | 1912-1913  | 49                                     | 36                                      | 12                                 | 3                       |
 
-Este grado de concentración de poder financiero no solo limita la competencia entre bancos, sino que también refuerza su control sobre las empresas y sectores productivos. Lenin menciona que estos grandes bancos no solo actúan como entidades financieras, sino que además poseen acciones en las principales empresas industriales, convirtiéndose así en los verdaderos dueños de las ramas económicas clave.
+Este grado de concentración de poder financiero no solo limita la competencia entre bancos, sino que también refuerza su control sobre las empresas y sectores productivos. Estos grandes bancos no solo actúan como entidades financieras, sino que además poseen acciones en las principales empresas industriales, convirtiéndose así en los verdaderos dueños de las ramas económicas clave.
 
 ### Los Bancos como Motor de la Exportación de Capital.
 
-Una de las características más importantes de la fase imperialista, según Lenin, es el **dominio del capital financiero** y la **exportación de capital**. Los bancos juegan un papel fundamental en este proceso, facilitando la exportación de capitales hacia las colonias y los países dependientes, donde los monopolios financieros obtienen superbeneficios. Esta exportación de capital asegura que los grandes bancos no solo controlen la economía interna, sino también la de los países sometidos al imperialismo.
+Una de las características más importantes de la fase imperialista es el **dominio del capital financiero** y la **exportación de capital**. Los bancos juegan un papel fundamental en este proceso, facilitando la exportación de capitales hacia las colonias y los países dependientes, donde los monopolios financieros obtienen superbeneficios. Esta exportación de capital asegura que los grandes bancos no solo controlen la economía interna, sino también la de los países sometidos al imperialismo.
 
-Lenin utiliza estadísticas claras para demostrar cómo los bancos alemanes, británicos y franceses se han expandido globalmente, estableciendo una red de sucursales y filiales en múltiples países. Este control financiero global refuerza el poder de los Estados imperialistas y sus intereses coloniales.
+Estadísticas claras demuestran cómo los bancos alemanes, británicos y franceses se expandieron globalmente, estableciendo una red de sucursales y filiales en múltiples países. Este control financiero global refuerza el poder de los Estados imperialistas y sus intereses coloniales.
 
 En este contexto, los **grandes bancos actúan como un brazo extendido del Estado burgués**, garantizando que los monopolios mantengan su dominio tanto a nivel interno como externo. Esta relación simbiótica entre Estado y bancos es esencial para la estabilidad del sistema imperialista.
 
 ### Monopolización y Control del Capital.
 
-El dominio de los bancos también facilita la creación de grandes monopolios industriales, al financiar su crecimiento y asegurar que otras empresas más pequeñas queden relegadas o absorbidas. Un ejemplo de este proceso es la alianza entre el **Deutsche Bank** y las grandes empresas industriales de Alemania. Lenin señala que, en 1913, los principales bancos alemanes manejaban más del 83% del capital bancario del país, una cifra que demuestra su inmenso poder económico.
+El dominio de los bancos también facilita la creación de grandes monopolios industriales, al financiar su crecimiento y asegurar que otras empresas más pequeñas queden relegadas o absorbidas. Un ejemplo de este proceso es la alianza entre el **Deutsche Bank** y las grandes empresas industriales de Alemania. En 1913, los principales bancos alemanes manejaban más del 83% del capital bancario del país, una cifra que demuestra su inmenso poder económico.
+
+
+## El Reparto del Mundo entre las Grandes Potencias.
+
+Este proceso de concentración bancaria y de capital financiero en manos de unos pocos gigantes no se limita solo al control de la economía nacional, sino que se extiende a nivel mundial, formando parte del **reparto imperialista del mundo**. La fase imperialista del capitalismo se caracteriza por la búsqueda de nuevas áreas de inversión, lo que lleva a las grandes potencias a repartirse el mundo para maximizar sus beneficios. Este reparto no solo implica la división de las colonias, sino también el control financiero y económico de países dependientes.
+
+Las **grandes potencias** imperialistas, como Gran Bretaña, Francia, Alemania, Estados Unidos y Japón, se lanzaron a la conquista de territorios coloniales y esferas de influencia económica. Este reparto se aceleró entre finales del siglo XIX y principios del XX, cuando las principales potencias capitalistas ya habían dividido el mundo:
+
+| Año        | Reparto de colonias (km²)   | Población (millones) |
+|------------|-----------------------------|----------------------|
+| 1876      | 40,000,000                   | 500                  |
+| 1914      | 65,000,000                   | 880                  |
+
+El crecimiento de las colonias bajo control imperialista es claro. Entre 1876 y 1914, las potencias europeas y otras potencias capitalistas expandieron su control sobre vastos territorios, lo que les permitió explotar recursos naturales y mano de obra a niveles sin precedentes. El control de los bancos sobre el capital financiero facilitó esta expansión, ya que las inversiones y la exportación de capital a las colonias eran esenciales para asegurar el flujo continuo de superbeneficios para los monopolios.
+
+### La Competencia entre las Potencias.
+
+Este reparto del mundo no fue un proceso pacífico. La competencia entre las grandes potencias por el control de los recursos y mercados llevó inevitablemente a conflictos armados. La Primera Guerra Mundial es un ejemplo claro de una guerra imperialista, donde las potencias lucharon por redividir el mundo y consolidar sus esferas de influencia.
+
+El **papel de los bancos en estos conflictos** es crucial. Los bancos financiaban tanto las actividades de expansión económica como las campañas militares que aseguraban el dominio de los monopolios sobre los mercados globales. De esta manera, el **capital financiero** no solo buscaba ganancias a través de la inversión, sino también mediante la expansión militar, utilizando al Estado burgués como instrumento para garantizar su hegemonía global.
+
+### El Caso de Argentina.
+
+El fenómeno del imperialismo también impactó a países como **Argentina**, que, aunque no fue una colonia formal de las grandes potencias, quedó fuertemente subordinada a la economía mundial controlada por el capital financiero extranjero. A finales del siglo XIX y principios del XX, Argentina se convirtió en uno de los principales destinos de inversión extranjera, especialmente de capital británico, que controlaba gran parte de los ferrocarriles, la producción agrícola y otros sectores estratégicos del país.
+
+Argentina, debido a su riqueza en recursos naturales y su posición estratégica como productor agrícola, fue objeto de un intenso proceso de inversión de capital extranjero. Los grandes bancos europeos, particularmente los británicos, establecieron sucursales en el país y financiaron proyectos de infraestructura, especialmente en los sectores ferroviario y de exportación de productos agropecuarios. Estas inversiones aseguraron que los intereses económicos de las potencias imperialistas estuvieran profundamente arraigados en la estructura económica argentina, controlando el flujo de capital y las exportaciones.
+
+Este **dominio financiero** subordinó la economía argentina a los intereses de los monopolios extranjeros, lo que significó que gran parte de los beneficios generados en el país se dirigían al extranjero, mientras la clase trabajadora local enfrentaba condiciones de explotación. Aunque Argentina era formalmente independiente, su integración al sistema capitalista mundial reflejaba los mecanismos de explotación imperialista.
+
+De esta forma, **Argentina** se convirtió en un ejemplo de cómo los países no coloniales podían quedar atrapados en la red de dominación imperialista mediante el control del capital financiero y la exportación de capitales. La concentración de poder en manos de los bancos y los monopolios extranjeros reforzaba la dependencia económica del país, siguiendo la lógica imperialista.
+
+
+## Ejemplos de leyes promovidas por grandes empresas y su impacto en la intervención estatal.
+
+En el marco del análisis imperialista que hemos desarrollado, es fundamental observar cómo las grandes empresas y los monopolios, en alianza con los bancos, influyen directamente en las decisiones y políticas de los Estados burgueses. Este poder les ha permitido promover leyes y reformas que garantizan la preservación de sus intereses económicos y políticos. A continuación, se presentan algunos ejemplos de leyes impulsadas por grandes empresas, lo que demuestra cómo la intervención estatal está condicionada por estos actores.
+
+### 1. Ley Sherman Antimonopolio (1890, Estados Unidos).
+Aunque originalmente concebida para combatir los monopolios, la **Ley Sherman Antimonopolio** fue manipulada por grandes corporaciones para mantener su dominio. Un caso paradigmático es el de **Standard Oil**, que, bajo el control de John D. Rockefeller, aprovechó las lagunas de la ley para reorganizarse tras su desmantelamiento formal en 1911. El gigante petrolero fragmentó su monopolio en múltiples empresas, como **ExxonMobil** y **Chevron**, que continuaron dominando el mercado global de petróleo. De esta manera, la intervención estatal, diseñada en teoría para limitar el poder monopolista, terminó por reforzar la estructura oligopólica que estas empresas crearon.
+
+### 2. Derogación de la Ley Glass-Steagall (1999, Estados Unidos).
+Promovida por grandes bancos como **Citigroup** y **J.P. Morgan**, la derogación de la **Ley Glass-Steagall** en 1999 permitió la consolidación de los bancos de inversión y comerciales en una única entidad financiera. Esta fusión facilitó la creación de mega-bancos que, en lugar de limitarse a la intermediación financiera, comenzaron a dominar el capital productivo y especulativo. La consecuencia fue una mayor concentración de poder financiero, que culminó en la crisis financiera de 2008. Esta crisis no solo mostró el poder de los grandes bancos sobre el Estado, sino también cómo el aparato estatal respondió protegiendo a estas instituciones mediante rescates multimillonarios.
+
+### 3. Privatizaciones bajo el Gobierno de Thatcher (1980s, Reino Unido).
+Bajo la dirección de Margaret Thatcher, el gobierno del Reino Unido implementó un extenso programa de **privatizaciones**, particularmente en sectores estratégicos como los servicios públicos. Empresas como **British Gas** y **British Telecom**, que hasta ese momento eran controladas por el Estado, fueron vendidas a inversores privados, muchos de los cuales eran monopolios internacionales. Las privatizaciones fueron vistas como una forma de atraer inversión y mejorar la eficiencia, pero en la práctica consolidaron la influencia de grandes empresas sobre sectores clave de la economía, como las telecomunicaciones, energía y transporte. Estas políticas fueron promovidas por corporaciones que vieron una oportunidad de expandir su control en áreas antes restringidas por el sector público.
+
+### 4. Tratado de Libre Comercio de América del Norte (NAFTA, 1994).
+El **Tratado de Libre Comercio de América del Norte (NAFTA)**, impulsado por multinacionales como **General Motors** y **Ford**, fue diseñado para facilitar el movimiento de capitales y productos entre Estados Unidos, México y Canadá. Si bien se presentó como una medida para aumentar la competitividad, el tratado favoreció principalmente a las grandes empresas que buscaban reducir costos mediante la explotación de mano de obra barata en México. NAFTA permitió a las multinacionales trasladar la producción a zonas donde las leyes laborales eran más laxas, al tiempo que garantizaba el acceso a un mercado sin restricciones comerciales. De este modo, los intereses del capital monopolista moldearon la política comercial de estos tres países, generando una mayor concentración de riqueza y poder en manos de corporaciones internacionales.
+
+### 5. Ley de Ferrocarriles en Argentina.
+En Argentina, durante el siglo XIX, las concesiones y leyes ferroviarias fueron influenciadas por grandes empresas británicas que controlaban la infraestructura de transporte en el país. Compañías como **The Buenos Aires Great Southern Railway Company** y **Central Argentine Railway** invirtieron en la construcción de vías férreas y, a cambio, recibieron privilegios que les otorgaron el control absoluto de este sector estratégico. Estas concesiones les permitieron explotar los recursos agrícolas del interior del país y transportarlos eficientemente hacia los puertos, donde serían exportados principalmente hacia Gran Bretaña. Esto convirtió a Argentina en un proveedor clave dentro del sistema económico imperialista, subordinando su desarrollo al capital extranjero.
+
+### 6. Expansión de la propiedad intelectual y patentes farmacéuticas.
+Empresas multinacionales, como **Pfizer** y **Novartis**, presionaron a los gobiernos para crear leyes de **propiedad intelectual** más estrictas, asegurando así su monopolio sobre medicamentos clave mediante el control de patentes. Estas leyes, implementadas en diversos países a través de tratados como los **Acuerdos sobre los Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio (ADPIC)**, limitaron la producción de genéricos en países en desarrollo y aseguraron que las grandes farmacéuticas mantuvieran su dominio sobre el mercado de medicamentos esenciales. Esta intervención del Estado en la protección de patentes fue crucial para garantizar los elevados márgenes de ganancia de estas corporaciones, incluso a costa de limitar el acceso a medicamentos asequibles.
