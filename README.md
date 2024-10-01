@@ -41,7 +41,7 @@ Esta tabla muestra cómo, en el lapso de 25 años, el número de grandes empresa
 
 No solo se concentran trabajadores, sino también los recursos energéticos esenciales para la producción. En Alemania, en 1907, las grandes empresas controlaban más del 75% de la energía utilizada en la producción, tanto en caballos de vapor como en electricidad, mientras que las pequeñas empresas, que representaban el 91% del total de empresas, apenas consumían el 7% de dicha energía. Este control desproporcionado de los recursos productivos muestra que la competencia entre pequeñas empresas se vuelve cada vez más irrelevante, dado el poder abrumador de los monopolios.
 
-### Estados Unidos (1904-1909):
+### Estados Unidos (1904-1909)
 
 | Año    | Empresas que producen más de un millón de dólares | Trabajadores (%) | Porcentajes de la producción (%) |
 |--------|--------------------------------------------------|------------------|---------------------------|
@@ -52,7 +52,7 @@ En Estados Unidos, el proceso de concentración fue aún más acelerado. En 1904
 
 Este crecimiento vertiginoso muestra cómo los grandes capitalistas, al concentrar la producción, logran un **monopolio** de facto, eliminando a competidores más pequeños y dominando sectores clave de la economía. Este fenómeno también provoca una caída de la competencia y permite que estas empresas fijen los precios, determinen la oferta y coordinen la producción para maximizar sus beneficios, lo que beneficia solo a una élite económica.
 
-## El impacto de la concentración en la creación de monopolios.
+## El impacto de la concentración en la creación de monopolios
 
 Una vez que la producción alcanza cierto nivel de concentración, la **competencia capitalista se transforma en monopolio**. Las grandes empresas, al ser pocas, pueden llegar a acuerdos entre sí para repartirse los mercados, controlar la oferta y fijar los precios. Este proceso es evidente en múltiples sectores industriales.
 
@@ -60,8 +60,34 @@ En Alemania, el consorcio del carbón de Renania-Westfalia llegó a controlar el
 
 Estos ejemplos demuestran que, una vez alcanzado cierto grado de concentración, las empresas gigantes se organizan en **monopolios** que controlan sectores enteros de la economía. Este fenómeno no es exclusivo de industrias específicas, sino que se extiende a casi todas las ramas de la economía capitalista, incluyendo la minería, la siderurgia, la producción de maquinaria, la banca, y más.
 
-## Consecuencias sociales y económicas de la concentración.
+## Consecuencias sociales y económicas de la concentración
 
 La concentración de la producción no solo genera monopolios económicos, sino que tiene profundas consecuencias sociales y políticas. En primer lugar, refuerza el **poder de la burguesía** al otorgarles un control casi total sobre los medios de producción, lo que a su vez les permite dominar al Estado y moldear las políticas económicas en su favor. En segundo lugar, las **crisis cíclicas del capitalismo** se vuelven más profundas y destructivas, ya que la producción se concentra en pocas manos y cualquier perturbación en los monopolios tiene efectos devastadores sobre la economía en su conjunto.
 
 La **competencia entre los monopolios** por los mercados y las fuentes de materias primas también provoca conflictos internacionales, que, inevitablemente, llevan a **guerras imperialistas**, donde los Estados burgueses luchan por el reparto del mundo en beneficio de sus clases dominantes.
+
+
+## Los Bancos y su Nuevo Rol en el Estado Burgués
+
+En la fase imperialista del capitalismo, el papel de los bancos se transforma radicalmente. Lenin destaca que los bancos, que en un principio actuaban como intermediarios financieros, ahora se han convertido en poderosos monopolios que controlan casi todo el capital monetario y productivo de un país. Esto les otorga una posición clave en la economía y en la política, estrechamente vinculados con el Estado burgués, cuyo objetivo es garantizar los intereses de la clase dominante.
+
+El **proceso de concentración bancaria** ha llevado a que un puñado de bancos gigantes controle la mayor parte de los depósitos y el capital disponible en las economías capitalistas avanzadas. Lenin ilustra esta concentración con el ejemplo de Alemania, donde en el período entre 1907 y 1912, los nueve principales bancos de Berlín concentraban casi el 50% de todos los depósitos del país:
+
+| Año        | En los 9 grandes bancos de Berlín (%) | En 48 bancos con más de 10 millones (%) | En 115 bancos con 1-10 millones (%) | En bancos pequeños (%) |
+|------------|----------------------------------------|-----------------------------------------|------------------------------------|-------------------------|
+| 1907-1908  | 47                                     | 32,5                                    | 16,5                               | 4                       |
+| 1912-1913  | 49                                     | 36                                      | 12                                 | 3                       |
+
+Este grado de concentración de poder financiero no solo limita la competencia entre bancos, sino que también refuerza su control sobre las empresas y sectores productivos. Lenin menciona que estos grandes bancos no solo actúan como entidades financieras, sino que además poseen acciones en las principales empresas industriales, convirtiéndose así en los verdaderos dueños de las ramas económicas clave.
+
+### Los Bancos como Motor de la Exportación de Capital
+
+Una de las características más importantes de la fase imperialista, según Lenin, es el **dominio del capital financiero** y la **exportación de capital**. Los bancos juegan un papel fundamental en este proceso, facilitando la exportación de capitales hacia las colonias y los países dependientes, donde los monopolios financieros obtienen superbeneficios. Esta exportación de capital asegura que los grandes bancos no solo controlen la economía interna, sino también la de los países sometidos al imperialismo.
+
+Lenin utiliza estadísticas claras para demostrar cómo los bancos alemanes, británicos y franceses se han expandido globalmente, estableciendo una red de sucursales y filiales en múltiples países. Este control financiero global refuerza el poder de los Estados imperialistas y sus intereses coloniales.
+
+En este contexto, los **grandes bancos actúan como un brazo extendido del Estado burgués**, garantizando que los monopolios mantengan su dominio tanto a nivel interno como externo. Esta relación simbiótica entre Estado y bancos es esencial para la estabilidad del sistema imperialista.
+
+### Monopolización y Control del Capital
+
+El dominio de los bancos también facilita la creación de grandes monopolios industriales, al financiar su crecimiento y asegurar que otras empresas más pequeñas queden relegadas o absorbidas. Un ejemplo de este proceso es la alianza entre el **Deutsche Bank** y las grandes empresas industriales de Alemania. Lenin señala que, en 1913, los principales bancos alemanes manejaban más del 83% del capital bancario del país, una cifra que demuestra su inmenso poder económico.
