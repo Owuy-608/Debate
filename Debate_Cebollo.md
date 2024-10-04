@@ -1,7 +1,3 @@
-Aquí tienes todo el texto sin los corchetes y sin el contenido dentro de ellos:
-
----
-
 # 1. Introducción: Definición y evolución del Estado Burgués.
 
 El estado burgués se define, desde la perspectiva marxista, como un instrumento de la clase dominante, la burguesía, para asegurar sus intereses y mantener la estructura de producción capitalista. Este estado surge como respuesta a la consolidación de la propiedad privada y la división de la sociedad en clases. Según Engels, en *El origen de la familia, la propiedad privada y el estado*, el estado es una consecuencia inevitable de la aparición de clases sociales antagonistas. El proceso histórico que lleva a su formación puede verse como una evolución desde formas de organización comunitarias y gentiles, hacia estructuras políticas más complejas, capaces de gestionar los conflictos de clase de manera sistemática.
