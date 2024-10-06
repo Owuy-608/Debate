@@ -23,7 +23,7 @@ En términos de su evolución, el estado burgués no es una estructura inmutable
 
 Sin embargo, estas transformaciones también han revelado las debilidades inherentes al estado burgués. Las crisis económicas recurrentes, como la Gran Depresión de 1929 o la crisis financiera de 2008, demuestran que el estado burgués no puede evitar las contradicciones internas del capitalismo. La intervención del estado en la economía, lejos de resolver estas crisis, solo sirve para posponerlas y, en muchos casos, agrava las desigualdades sociales.
 
-# 2. La sociedad bajo el estado burgués
+# 2. La sociedad bajo el estado burgués.
 
 Desde la perspectiva marxista, la sociedad en el estado burgués está estructurada en torno a la división de clases, principalmente entre la burguesía, que controla los medios de producción, y el proletariado, que se ve obligado a vender su fuerza de trabajo para sobrevivir. Esta estructura social se basa en las relaciones de producción capitalistas, que generan una contradicción fundamental: la riqueza se acumula en manos de una pequeña élite, mientras que la mayoría de la población trabaja bajo condiciones de explotación. Según Engels, en *El origen de la familia, la propiedad privada y el estado*, el estado surgió como una institución destinada a mantener estas divisiones sociales, consolidando el poder de la clase dominante a través de un aparato coercitivo.
 
